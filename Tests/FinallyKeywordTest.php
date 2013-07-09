@@ -3,7 +3,7 @@
 /**
  * @author Adam Gegotek <adam.gegotek@gmail.com>
  */
-class PasswordHashTest extends PHPUnit_Framework_TestCase 
+class FinallyKeywordTest extends PHPUnit_Framework_TestCase 
 {
     public function testExceptions() 
     {
